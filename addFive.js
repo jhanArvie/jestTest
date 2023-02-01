@@ -26,3 +26,7 @@ module.exports = addFive;
 //4. also_ node_modules _folder is created. Inside it are module files.
 
 //5. Open the package.json file and rewrite the string on the test: line 7 to "jest"
+
+//6.NOTE: Jest runs tests for code in your current project to verify the expected output
+
+//7. create a new file named. addFive.test.js
